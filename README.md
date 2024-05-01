@@ -3,7 +3,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Listas de Exercícios da disciplina de Programação Orientada a Objetos
 
-- [Lista 03](https://github.com/ClaraRibeiro09/Disc-POO-2024.1-TO3/tree/main): Os 15 primeiros Exercícios Resolvidos. <br>
+- [Lista 03](https://github.com/saravs858/Disc-POO-2024.1-T03/tree/main): Os 15 primeiros Exercícios Resolvidos. <br>
  - Cap. 06 
  - Cap. 08
 
